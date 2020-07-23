@@ -1,6 +1,11 @@
 # Bugzilla Deployment on k8s Cluster
 
 ##Mysql Deployment 
+```
+git clone https://github.com/mattmattox/drain-node-on-crash.git
+cd drain-node-on-crash
+kubectl apply -f .
+```
 ...
 git clone https://github.com/kumargaurav522/bugzilla-k8s.git
 cd bugzilla-k8s
