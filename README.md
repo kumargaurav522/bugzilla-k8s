@@ -15,4 +15,4 @@ After deployment go on Mysql Pod and create bugs database.
 kubectl apply -f deployment-bugzilla.yaml
 kubectl apply -f service.yaml
 ```
-update
+
